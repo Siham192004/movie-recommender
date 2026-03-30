@@ -1,5 +1,5 @@
 🎬 Movie Recommender
-Trouve ton prochain film préféré en quelques secondes
+>Trouve ton prochain film préféré en quelques secondes
 
 🚀 C'est quoi ?
 Une application web intelligente qui analyse tes goûts et te propose des films similaires à ceux que tu aimes, avec les affiches et les résumés.
